@@ -19,7 +19,13 @@
         {% assign entry_image = entry_image | relative_url %}
       {% endunless %}
       {% assign entry_image = entry_image | escape %}
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+      {% unless entry.image.no_post_link %}
+        <a href="{{ entry.url | relative_url }}">
+      {% endunless %}
+      <img class="entry-image u-photo" src="{{ entry_image }}" alt=""></a>
+      {% unless entry.image.no_post_link %}
+        </a>
+      {% endunless %}
     {% endif %}
   </header>
   {% unless page.show_excerpts == false %}
@@ -27,10 +33,10 @@
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
         <div class="more-link">
-          <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More' }}</a>
-        </div>
-        <br>
-        <hr>
+        <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.locale].read_more | default: 'Read More' }}</a>
+      </div>
+      <br>
+      <hr>
       {% endif %}
     </div>
   {% endunless %}
