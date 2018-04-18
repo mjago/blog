@@ -4,12 +4,10 @@ layout: page
 permalink: /contact/
 ---
 
-## Cian Burfoot
-Lincoln <br>
-UK <br>
-Tel: 07734 567890
+## Martyn Jago
+Lincoln, UK <br>
 
-## If you have an **inquiry** you may send me a message by using the form below:
+## If you have an *inquiry* you may send me a message using the form below:
 
 <!--
      After implementing this contact form make sure
