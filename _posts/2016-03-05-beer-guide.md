@@ -8,7 +8,7 @@ image:
 
 Here is an automated pub ale menu I created with the **Ruby** language, using the **Sinatra** framework, and some javascript. As ales are tapped and available for serving they appear on the *blackboard* as shown, complete with *type*, *ABV*, and *price*. Ales are entered into the system as they are *tapped*. This can trigger an update of a website containing a page showing the *blackboard*.
 
-![center-aligned-image](/images/hop_inn-935-506.png){: .align-center}
+![center-aligned-image]({{ '/images/hop_inn-935-506.png' | absolute url}}){: .align-center}
 
 ## BatmanJS
 
