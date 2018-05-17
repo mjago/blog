@@ -7,11 +7,11 @@ image:
   thumbnail: /images/multimonNG.png
 ---
 
-## Installation
-
 I needed a copy of **qmake** to install **multimonNG** on Ubuntu 17.10.
 
 Unfortunately this turned out *not* to be as easy as *sudo apt install qmake*! So for the next time I need **multimonNG** on a different posix system this is what I ended up doing:-
+
+## Installation
 
 ```sh
 git clone --depth=1 https://github.com/EliasOenal/multimon-ng.git
