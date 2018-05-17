@@ -1,15 +1,15 @@
 ---
 layout:      post
-title:       "Installing multimonNG (and qmake) on Ubuntu 17.10"
+title:       "Installing MultimonNG (and QMake) on Ubuntu 17.10"
 category:    Posix
-tags:        [qmake, qt5, ubuntu, multimonNG, "amateur radio"]
+tags:        [QMake, Qt5, Ubuntu, MultimonNG, "Amateur Radio"]
 image:
   thumbnail: /images/multimonNG.png
 ---
 
-I needed a copy of **qmake** to install **multimonNG** on Ubuntu 17.10.
+I needed a copy of **qmake** to install **MultimonNG** on Ubuntu 17.10.
 
-Unfortunately this turned out *not* to be as easy as *sudo apt install qmake*! So for the next time I need **multimonNG** on a different posix system this is what I ended up doing:-
+Unfortunately this turned out *not* to be as easy as *sudo apt install qmake*! So for the next time I need **MultimonNG** on a different posix system this is what I ended up doing:-
 
 ## Installation
 
