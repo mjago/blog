@@ -7,9 +7,15 @@ image:
   thumbnail: /images/multimonNG.png
 ---
 
-I needed a copy of **qmake** to install **MultimonNG** on Ubuntu 17.10.
+I needed a copy of **QMake** to install **MultimonNG** on Ubuntu
+17.10. QMake is a component of the Qt Framework. It is a utility to
+automate the generation of makefiles. The generated makefile is then
+used to build a final application (in this case MultimonNG).
 
-Unfortunately this turned out *not* to be as easy as *sudo apt install qmake*! So for the next time I need **MultimonNG** on a different posix system this is what I ended up doing:-
+Unfortunately, getting a copy of QMake proved to be *not quite* as
+easy as *sudo apt install qmake*! So for the next time I need
+**MultimonNG** on a different Posix system this is what I ended up
+doing:-
 
 ## Installation
 
