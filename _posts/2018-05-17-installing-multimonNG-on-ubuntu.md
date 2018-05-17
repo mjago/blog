@@ -30,13 +30,12 @@ sudo make install
 multimon-ng -h
 # => multimon-ng 1.1.5
 ```
-
-# Testing
-
 <figure class="align-center">
   <a href="https://github.com/EliasOenal/multimon-ng"><img src="{{ '/images/multimonNG.png' | absolute_url }}" alt="MultimonNG"></a>
   <figcaption>MultimonNG</figcaption>
 </figure>
+
+# Testing
 
 The command I used to test MultimonNG:-
 
