@@ -18,7 +18,7 @@ Here she is singing **Push Me To My Limit** live at **Toerag**.
 
 {% include youtube-player.html id=page.youtubeIdlimit %}
 
-It is very refreshing to hear that young talent of this calibre from the North of England can get noticed, and I hope Rae releases many more great records and has a great career!
+It is very refreshing to hear that young talent of this calibre from the North of England can get noticed, and I hope Rae releases many more records and has a great career!
 
 Here is the official video for the album [SOMEONE OUT THERE](http://atlanti.cr/someoneoutthere).
 
