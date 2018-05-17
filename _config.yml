@@ -18,8 +18,8 @@
 remote_theme: mmistakes/so-simple-theme # added!
 email: martyn.jago@btinternet.com
 locale: en-GB
-title: "Informal Blog"
-description: "Flotsam and Jetsam"
+title: "Flotsam and Jetsam"
+description: "My Informal Blog"
 baseurl: /blog
 url: https://mjago.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.jpg"
