@@ -7,8 +7,6 @@ image:
   thumbnail: /images/bt.png
 ---
 
-# Bluetooth Adapter Corrupt
-
 This is a *note to self* since the fix is so bizarre and hard to track down. I recently broke bluetooth badly on my Mac Mini which is running Lubuntu 18.04, and took several hours to fix.
 
 Whilst playing with various bluetooth tools I managed to break bluetooth such that nothing bluetooth related worked any more. After lots of reinstalls of software, reboots, and reading random internet web posts on the subject still I had no joy.
