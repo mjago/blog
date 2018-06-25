@@ -20,7 +20,7 @@ email: martyn.jago@btinternet.com
 locale: en-GB
 title: "Flotsam and Jetsam"
 description: "My Informal Blog"
-baseurl: /blog
+baseurl: /
 url: https://mjago.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.jpg"
 date_format: "%B %-d, %Y"
